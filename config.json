@@ -1,0 +1,35 @@
+{
+    "DISCORD_WEBHOOK": "",
+    "quadrado_bar": [
+        238,
+        495,
+        380,
+        30
+    ],
+    "barra_quadrado_bar": [
+        238,
+        503,
+        324,
+        13
+    ],
+    "quadrado_bar_progresso": [
+        310,
+        531,
+        178,
+        4
+    ],
+    "shake_area": [
+        150,
+        50,
+        550,
+        450
+    ],
+    "catch_delay": 2,
+    "max_repeating_duration": 30,
+    "tolerance": 5,
+    "max_hold_time": 2.0,
+    "min_hold_time": 0.1,
+    "target_fish_x": 450,
+    "target_hold_time": 3,
+    "left_bound_x": 350
+}
